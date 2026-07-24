@@ -47,6 +47,7 @@ jupyterlab-filesystem-access
 gapminder
 # linearmodels==6.1
 # lmdiag
+openpyxl
 pandas-datareader
 otter-grader
 py4conjoint
