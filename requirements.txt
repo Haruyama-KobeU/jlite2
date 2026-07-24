@@ -52,5 +52,6 @@ otter-grader
 py4conjoint
 py4macro
 py4etrics
+python-calamine
 pyodide-http
 wooldridge
